@@ -1,0 +1,17 @@
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csprojResolveAssemblyReference.cache
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.Cache
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+\\stufiles-j.pclab.uhcl.edu\stufiles-j\jonnalagaddaa1278\home\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Users\karth\Desktop\Capstone_project\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Users\karth\Desktop\Capstone_project\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Users\karth\Desktop\Capstone_project\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
