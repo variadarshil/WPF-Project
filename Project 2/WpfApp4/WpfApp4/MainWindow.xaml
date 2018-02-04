@@ -1,0 +1,80 @@
+﻿<Window x:Class="WpfApp4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Canvas Margin="10,0,-10,0">
+            <Line
+             X1="10" Y1="70"
+             Stroke="#FF342F2F"
+             StrokeThickness="4" Canvas.Left="205" Canvas.Top="57" RenderTransformOrigin="-0.934,-0.025" Height="85" Width="16" >
+                <Line.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-19.492"/>
+                        <TranslateTransform X="-15.355" Y="8.929"/>
+                    </TransformGroup>
+                </Line.RenderTransform>
+            </Line>
+            
+            <Line
+             X1="10" Y1="200"
+             Stroke="#FF342F2F"
+             StrokeThickness="4" Canvas.Left="170" Canvas.Top="52" Width="37" RenderTransformOrigin="0.5,0.5" > 
+                <Line.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="2.886"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Line.RenderTransform>
+            </Line>
+
+            <Line
+             X1="10" Y1="200"
+             Stroke="#FF342F2F"
+             StrokeThickness="4" Canvas.Left="300" Canvas.Top="51" Width="15" RenderTransformOrigin="0.5,0.5">
+                <Line.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="2.333"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Line.RenderTransform>
+            </Line>
+            
+            <Line
+            X1="10" Y1="70"
+            Stroke="#FF342F2F"
+            StrokeThickness="4" Canvas.Left="269" Canvas.Top="176" RenderTransformOrigin="0.5,0.5">
+                <Line.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-19.396"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Line.RenderTransform>
+            </Line>
+            <Ellipse  
+              Canvas.Top="125"  
+              Canvas.Left="215"  
+              Fill="#FF342F2F"  
+              Height="50"  
+              Width="50"  
+              StrokeThickness="4"  
+              Stroke="#FF342F2F"/>
+
+        </Canvas>
+
+
+
+    </Grid>
+</Window>
